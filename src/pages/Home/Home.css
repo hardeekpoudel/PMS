@@ -1,0 +1,26 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+.card img {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card .product-info {
+    padding: 10px;
+}
+
+.card .product-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.card .product-description {
+    margin-top: 10px;
+}
